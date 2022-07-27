@@ -1,0 +1,26 @@
+.text-color{
+    color: #FA804C;
+}
+.text-black{
+    color: #FA804C;
+}
+.bg-img{
+    background-color: #F1F1F1;
+    border-radius: 10%;
+}
+.shose-image img{
+    height: 60%;
+    width: 60%;
+}
+.icon-image img{
+    height: 60%;
+    width: 60%;
+}
+.shopin-image img{
+    height: 100%;
+    width: 100%;
+}
+.button-icon img{
+    height: 20%;
+    width: 20%;
+}
